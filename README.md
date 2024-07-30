@@ -11,3 +11,5 @@ then
 ```shell
 docker compose up
 ```
+
+to access http://localhost:3000
