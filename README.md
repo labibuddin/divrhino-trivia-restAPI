@@ -1,4 +1,4 @@
-# drivehino-trivia-restAPI
+# divrhino-trivia-restAPI
 
 to run this project
 
